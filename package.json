@@ -1,0 +1,23 @@
+{
+  "name": "darshan-portfolio",
+  "version": "1.0.0",
+  "description": "Darshan K - Personal Portfolio Website",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'No build required - static site'",
+    "start": "echo 'Static site - open index.html'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darshan-624/darshan-portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "website",
+    "developer",
+    "static"
+  ],
+  "author": "Darshan K",
+  "license": "MIT",
+  "homepage": "https://github.com/Darshan-624/darshan-portfolio#readme"
+}
